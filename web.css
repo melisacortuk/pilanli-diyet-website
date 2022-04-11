@@ -1,0 +1,342 @@
+ html, body {
+       margin:0;
+       height:0;
+	   font-family: 'Roboto', sans-serif;
+    }
+#myContent {
+  
+    
+}
+/* end hide */
+
+
+#ana{
+    
+   
+    width: 100%;
+   
+}
+
+
+.logo {
+    margin: 15px;
+    display: block;
+}
+
+.link{
+    float: left;
+    width:110px;
+    height: 50px;
+    box-sizing: border-box;
+    font-family:sans-serif ;
+    font-size: 14px;
+    text-decoration: none;
+    margin-top: 30px;
+    color:black;
+    transition: opacity 2s;
+    
+}
+
+.slideshow-container img{
+width:100%;
+height:auto;
+border:2px solid #d2ab66;
+}
+.link:hover{
+   opacity: 0.1;
+}
+
+
+table.yazi-1{
+padding: 60px 0px 0 0;
+ width:1100px;
+ margin:auto;
+ color: #d2ab66;
+ font-size: 14px;
+}
+.yazi-1 .icerik {
+    line-height: 20px;
+    margin-left: 15px;
+}
+#menuler {
+    width: 100%;
+    display: table;
+    text-align: center;
+}
+
+table.links{
+margin:auto;
+}
+
+table.links tr td{
+
+}
+
+table.links tr td a {
+        float: left;
+    color: #061a25;
+    background: #d2ab66;
+	border:1px solid #d2ab66;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-decoration: none;
+    margin: 0 2px 8px 2px;
+}
+
+table.links tr td a:hover {
+    float: left;
+    color: #d2ab66;
+    border:1px solid #d2ab66;
+	background-color:transparent;
+    border-radius: 5px;
+    padding: 10px 25px;
+    text-decoration: none;
+    margin: 0 2px 8px 2px;
+}
+
+
+* {box-sizing:border-box}
+
+.mySlides {display:none}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 2300px;
+  text-align: center;
+  
+  margin: auto;
+}
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active {
+  background-color: #717171;
+}
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+.yazi1{
+    width: 900px;
+    margin:auto;
+}
+ 
+.yazi1 img {
+    float:left;
+    padding:0 10px 10px ;
+    width: 500px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: -100px;
+}
+ 
+.yazi1 p {
+    float:left;
+    width:500px;
+}
+.yazi1 h1{
+    
+    font-family:sans-serif ;
+    font-size: 18px; 
+    text-align: center;
+}
+
+#kutu1{
+    
+   width: 1350;
+    height: 250px;
+    background-color: gainsboro;
+
+    margin-top: 700px;
+    color:black;
+   
+    margin-bottom: 50px;
+    
+}
+.title{
+    font-family:cursive
+}
+.altbanner{
+    font-family:sans-serif ;
+    font-size: 30px; 
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.wp{
+   
+   margin-bottom: 500px;
+    margin-left: 550px;
+     float: left;
+  
+    box-sizing: border-box;
+    font-family:sans-serif ;
+    font-size: 17px;
+    text-decoration: none;
+    margin-top: 30px;
+    color:black;
+    transition: opacity 1s;
+    padding-bottom: 300px;
+    
+    
+}
+
+.wp:hover{
+   opacity: 0.1;
+    
+    
+    
+}
+.çizgi{
+    margin-left: 640px;
+}
+
+.kutu2yazi{
+      font-family:sans-serif ;
+    font-size: 17px; 
+  
+    
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: -250px
+    
+}
+.yazi3{
+    font-family:sans-serif ;
+    font-size: 17px; 
+
+    
+}
+
+
+#altfooter{
+      
+        bottom: 0;
+       width:1352x;
+       height:50px;   /* footer yüksekliği */
+       background:#6cf;
+       text-align:center;
+        margin: 0
+        
+    }
+
+div.sistem{
+width:100%;
+background:white;
+margin-top:60px;
+text-align:center;
+}
+
+div.sistem table.sistem-yazisi {
+    width: 1100px!important;
+    margin: auto;
+}
+
+table.sistem-yazisi ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("images/arkaplan-2.jpg");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.instagram {
+    background: #fff;
+    float: left;
+    width: 100%;
+}
+
+.ins-owl-carousel.owl-carousel.owl-theme {
+    padding: 15px;
+    background: white;
+}
+
+.ins-owl-carousel .item {
+margin-right:10px;
+}
+
+.ins-owl-carousel item img{
+width:200px;
+height:auto;	
+}
+
+.insta-baslik{
+text-align:center;
+}
+
+.insta-baslik h1 {
+    padding: 50px;
+    color: #061a25;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,204 @@
+html, body{
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+div.ana_kapsam{
+	width:1100px;
+	margin:auto;
+}
+
+div.baslik {
+    background: #061a25;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+div.baslik h1{
+	color:#d3ad65;
+}
+
+div.icerik {
+    float: left;
+    margin-left: 10px;    
+    width: 888px;
+    margin-top: 10px;
+}
+
+.linkler {
+    margin-top: 10px;
+    float: left;
+}
+
+.linkler ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    width: 200px;
+}
+
+.linkler ul li {
+    background: #061a25;
+    margin-bottom: 3px;
+    float: left;
+    width: 100%;
+}
+
+.linkler ul li a {
+    float: left;
+    padding: 8px 10px;
+    color: #d3ad65;
+    text-decoration: none;
+    width: 100%;
+}
+
+.linkler ul li a:hover {   
+   text-decoration: underline;
+}
+
+div.yazilar_kapsam table{
+	width:100%;
+}
+
+div.yazilar_kapsam table input, div.yazilar_kapsam table textarea{
+	width:100%;
+}
+
+div.yazilar_kapsam table input{
+padding:5px;
+margin-bottom:10px;
+}
+
+.resim-kapsam {
+    border-bottom: 1px solid #c3c3c3;
+    margin: 5px 0 5px 0;
+}
+span.resim-sil {
+    cursor: pointer;
+    float: left;
+    background: red;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+	margin-top: -8px; 
+}
+
+button.guncelle{
+
+}
+
+.yeni-yazi-ekle{
+text-align:right;
+}
+
+
+.yeni-yazi-ekle a{
+	background: #061a25;
+    padding: 15px;
+    color: #d3ad65;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+a.blog-guncelle {
+    background: green;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 5px;
+    color: white;
+    text-decoration: none;
+}
+
+a.blog-sil{
+    background: red;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 5px;
+    color: white;
+    text-decoration: none;
+}
+
+table.mesaj-table th {
+    background: #061a25;
+    color: #d3ad65;
+    padding: 5px;
+}
+
+table.mesaj-table td {
+    padding: 5px;
+    border: 1px solid #eaeaea;
+}
+
+.durum-0{
+font-weight:bold;
+}
+
+table.mesaj-table td a {
+    background: #061a25;
+    width: 100%;
+    float: left;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+.mesaj-oku-table .oku-baslik {
+    background: #061a25;
+    color: #d3ad65;
+    padding: 5px;
+    width: 150px;
+	vertical-align:top;
+}
+
+.mesaj-oku-table .oku-yazi {
+    padding: 5px;
+    border: 1px solid #dedede;
+}
+
+a.mesaji-sil {
+    float: right;
+    background: red;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+a.geri-git {
+    float: left;
+    background: green;
+    padding: 5px 15px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

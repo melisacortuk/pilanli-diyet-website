@@ -1,0 +1,238 @@
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<link type="text/css" rel="stylesheet" href="web.css">
+<title class="title">Pilanlı Diyet| Büşra Pilan</title>
+<link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" integrity="sha512-9CWGXFSJ+/X0LWzSRCZFsOPhSfm6jbnL+Mpqo0o8Ke2SYr8rCTqb4/wGm+9n13HtDE1NQpAEOrMecDZw4FXQGg==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" integrity="sha512-X/RSQYxFb/tvuz6aNRTfKXDnQzmnzoawgEQ4X8nZNftzs8KFFH23p/BA6D2k0QCM4R0sY1DEy9MIY9b3fwi+bg==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css" integrity="sha512-f28cvdA4Bq3dC9X9wNmSx21rjWI+5piIW/uoc2LuQ67asKxfQjUow2MkcCNcfJiaLrHcGbed1wzYe3dlY4w9gA==" crossorigin="anonymous" />
+<style>
+
+body{
+background-color:#061a25;
+}
+.ana-bolum {
+	font-family: 'Roboto', sans-serif;
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 600px;
+	text-align: center;
+}
+.ana-bolum .kutu {
+	float: left;
+	width: 23%;
+	height: auto;
+	border: 0px solid #848484;
+	padding: 1%;
+	margin-right: 7px;
+}
+.ana-bolum .kutu:nth-child(5n+4) {
+	margin-right: 0;
+}
+.ana-bolum .kutu * {
+	margin: 0 auto;
+}
+.ana-bolum .kutu .baslik {
+	margin-top: 5px;
+	font-size: 20px;
+	color: #000;
+	text-decoration: none;
+}
+.ana-bolum .kutu .aciklama {
+	margin-top: 3px;
+	font-size: 14px;
+	color: #383838;
+	text-decoration: none;
+}
+.ana-bolum .kutu .link {
+	margin-top: 10px;
+	font-size: 14px;
+	text-decoration: none;
+	border: 1px solid #0a2740;
+	padding: 3px 10px;
+	background: #0faed2;
+	color: #f1f1f1;
+}
+.ana-bolum .kutu .fotograf {
+	width: 100%;
+	height: auto;
+}
+.ana-bolum .kutu .fotograf img {
+	width: 100%;
+	height: auto;
+}
+.ayirici {
+	width: 100%;
+	height: 20px;
+	float: left;
+}
+
+.item img{
+width:100%;
+height:auto;
+}
+
+.owl-theme .owl-controls .owl-page span{
+background:#ecdbbd;
+}
+
+.active {
+    background-color: #d2ab66;
+    border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<div id="ana">
+  <div id="menuler">
+  	<div class="logo">
+    	<a href="/" class="logo"><img src="images/logo_m.png" alt=""></a>
+    </div>
+  	<table class="links">
+    	
+  		<tr>
+  			<td> <a  href="default.html">ANASAYFA</a></td>
+            <td> <a  href="hakkimda.html">HAKKIMDA</a></td>
+  			<td><a  href="onlinediyet.html">ONLİNE DİYET</a></td>
+  			<td><a  href="randevual.html">RANDEVU AL</a></td>
+  			<td> <a  href="blog.html">BLOG</a></td>
+  			<td><a  href="iletişim.html">İLETİŞİM</a></td>
+  		</tr>
+  	</table>
+  </div>
+   
+    
+    
+   
+    
+  <div class="owl-carousel owl-theme">
+    <div class="item"><img src="images/yuklenen/1.jpg"></div>
+    <div class="item"><img src="images/yuklenen/2.jpg"></div>
+    <div class="item"><img src="images/yuklenen/3.jpg"></div>
+</div>
+  
+  
+  <br>
+  
+ 	<table class="yazi-1">
+ 		<tr>
+ 			<td><img src="images/pilanli-diyet-busra-pilan.png"></td>
+ 			<td>
+            	<div class="icerik">
+                	<h1>Sağlıklı Yaşam</h1>
+                  Sağlıklı bir yaşam elde etmek için sağlıklı beslenmek ve spor yapmak gerekir.Dengeli beslenme ve düzenli spor yapmak insan sağlığının korunmasında etkili olur.Sağlıklı ve uzun bir ömür için uzmanların tavsiyesi de dengeli ve doğal beslenmektir. <br>
+                  <br>
+                  Temel gıda maddelerinin yetiştirilmesi ve tüketilmesi, doğal olarak elde edilmesi sağlıklı bir yaşamı mümkün kılmaktadır. Temel besin kaynaklarının tüketiminde doğal besinleri tercih edilmesi gerekir. Temel besin kaynaklarının miktarı ve gün içindeki öğün ve yemek düzeni de sağlıklı bir yaşamın oluşmasında etkilidir. <br>
+                  <br>
+                  Sağlıklı bir yaşam için spor yapmak gerekir.<br>
+                  <br>
+                  Düzenli spor etkinlikleri yapmak vücudu zinde tutar. Dinç olan vücudun da sistemleri en iyi şekildegörevlerine devam eder. Böylece dengeli beslenme ve düzenli spor faaliyeti ile sağlıklı bir hayatsürmek mümkün olur. <br>
+                  <br>
+                  Doğal alanlarda yaşamak, doğal çevreye uyum sağlamak, doğayı sevmek ve doğayı korumak dainsan hayatında sağlıklı bir hayatı mümkün kılan bir diğer etkendir.Bu nedenle doğanın da korunması gerekir.
+                </div>
+            </td>
+ 		</tr>
+ 	</table>
+  
+<div class="sistem">
+	<table class="sistem-yazisi">
+		<tr>
+			<td><img src="images/arkaplan-1.jpg"></td>
+            <td>
+            	<table>
+            		<tr>
+            			<td>
+            				<h1>SİSTEM NASIL İŞLİYOR?</h1>
+                            <ul>
+                            	<li>
+                                	<h2>Detaylıca Sizleri Tanımak</h2>
+                                    <p>Mevcut Durumunuzu, alışkanlıklarınızı, sevdiğiniz ve sevmediğiniz şeyleri öğrenmek, sizin için en uygun diyet programının temelini oluşturmaktadır.</p>
+                                </li>
+                                
+                                <li>
+                                	<h2>Beslenme ve Fiziksel Aktivite Planlamak</h2>
+                                    <p>Sizleri tanıdıktan sonra, beraberce keyifli bir beslenme ve aktivite planı hazırlayarak en verimli şekilde kilo vermeye başlıyoruz.</p>
+                                </li>
+                                
+                                <li>
+                                	<h2>Takip ve Kontrol</h2>
+                                    <p>Sürekli olarak kaydedilen ilerlemeyi takip edip gözlemliyor ve programı sürekli güncel tutarak diyetinizden sıkılmamanızı sağlıyoruz.</p>
+                                </li>
+                            </ul>
+            			</td>
+            		</tr>
+            	</table>
+            </td>
+		</tr>        
+	</table>
+</div>  
+  <div class="parallax"></div>
+  <<div class="instagram">
+  	<div class="insta-baslik"><h1>INSTAGRAMDA BİZİ TAKİP EDİN</h1></div>
+    <div class="insta-resim">
+    	<div class="ins-owl-carousel">
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a1.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a2.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a3.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a4.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a5.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a6.jpg"></a></div>            
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a8.jpg"></a></div>
+            <div class="item"><a href="https://www.instagram.com/diyetisyenpilan/" target="_blank" ><img src="images/yuklenen/a9.jpg"></a></div>
+            
+   		</div>
+    </div>
+  </div>
+  
+  
+  <div class="son-blog-yazilari">
+  
+  </div>
+  
+  <div class="whatsapp">
+  	<a href="https://api.whatsapp.com/send?phone=905313964857" target="_blank"><img src="images/whatsapp.png" alt=""></a>
+  </div>
+  <div id="kutu1">
+    <p class="altbanner">Tüm soru ve sorunlarınız için iletişime geçebilirsiniz</p>
+    <p class="çizgi">-------</p>
+    <a  class="wp" href="https://api.whatsapp.com/send?phone=905313964857">WHATSAPP MESAJ GÖNDER</a> </div>
+  <div class="altyazi">
+    <p class="yazi3"> Yenimahalle, Atatürk Blv. Yanyolu No:45, 55270 Platin İş Merkezi kat:5 Atakum Samsun<br>
+      <br>
+      0534 578 63 91 </p>
+  </div>
+  <div id="altfooter">
+    <p class="kutu2yazi">© 2020 Copyright. All Rights Reserved.</p>
+  </div>
+</div>
+ <script>
+	$('.owl-carousel').owlCarousel({
+		loop:true,
+		margin:10,
+		nav:true,
+		 autoWidth:true,
+    	items:1,
+		autoplay:true,
+    autoplayTimeout:1000,
+    autoplayHoverPause:true
+	})
+	
+	$('.ins-owl-carousel').owlCarousel({
+		loop:true,
+		margin:10,
+		nav:true,
+		 autoWidth:true,
+    	items:6,
+		autoplay:true,
+    autoplayTimeout:1000,
+    autoplayHoverPause:true
+	})
+	
+	
+</script>
+</body>
+</html>
